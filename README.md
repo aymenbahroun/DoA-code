@@ -1,17 +1,17 @@
 # DoA-code
 The code files for the DoA project
 
-## Anechoic folder 
+### Anechoic folder 
 The methods in anechoic conditions
 
-## Reverberant folder 
+### Reverberant folder 
 Files modified in pyroom acoustics   
 The rir data generation   
-The phase map processing 
+The phase map processing   
 The CNN model   
 
-## Pyroomacoustics
+### Pyroomacoustics
 The files modified are :
-### room.py
-### beamforming.py
-### soundsource.py
+* room.py
+* beamforming.py
+* soundsource.py
