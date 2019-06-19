@@ -5,10 +5,10 @@ The code files for the DoA project
 The methods in anechoic conditions
 
 ## Reverberant folder 
-Files modified in pyroom acoustics 
-The rir data generation 
-The phase map processing
-The CNN model 
+Files modified in pyroom acoustics \\
+The rir data generation \\
+The phase map processing \\
+The CNN model \\
 
 ## Pyroomacoustics
 The files modified are :
