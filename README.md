@@ -8,7 +8,8 @@ The methods in anechoic conditions
 Files modified in pyroom acoustics   
 The rir data generation   
 The phase map processing   
-The CNN model   
+The CNN model  
+An image of the *microphone setup* used
 
 ### Pyroomacoustics
 The files modified are :
