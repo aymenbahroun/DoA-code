@@ -2,6 +2,7 @@
 The code files for the DoA project
 
 ### Anechoic folder 
+Forward model in anechoic conditions  
 The methods in anechoic conditions
 
 ### Reverberant folder 
